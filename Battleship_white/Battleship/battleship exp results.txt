@@ -1,0 +1,3 @@
+battleship1.dat should sink the carrier and have a miss where the carrier was
+battleship2.dat should sink the sub and have a miss where the sub was
+battleship3.dat should hit each ship once without missing

@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Battleship.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Battleship.vcxproj -> C:\Users\rwhit\Desktop\Random stuff I probably don't need but still keep anyways because I'm a hoarder LOL\programming labs\Battleship_white\x64\Debug\Battleship_white.exe
